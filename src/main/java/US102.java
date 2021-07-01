@@ -5,5 +5,7 @@ public class US102 {
         System.out.println("apples");
 //ready to push this branch to remote and open pull request
         //one more
+
+        //fixing the code as requested
     }
 }
