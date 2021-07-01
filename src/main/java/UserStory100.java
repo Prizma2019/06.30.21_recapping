@@ -6,5 +6,6 @@ public class UserStory100 {
         System.out.println("another commit");
 
         System.out.println("us 101");
+        System.out.println("us 101 commit 2");
     }
 }
